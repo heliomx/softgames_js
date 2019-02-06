@@ -1,4 +1,4 @@
-# A test-driven JS assessment
+# A test-driven JS assessment completed by Hélio Miranda
 
 
 ## I want to work on the tests; what do I do?
